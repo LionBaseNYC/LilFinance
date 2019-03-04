@@ -1,0 +1,2016 @@
+SUBREDDIT: CryptoCurrency
+------------------------------------------------------------
+ID: 0
+Title: Daily Discussion - March 3
+Score: 16
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awvjdi/daily_discussion_march_3/
+
+ID: 1
+Title: All the Money in the World
+Score: 587
+URL: https://i.redd.it/2znjm4axbxj21.jpg
+
+ID: 2
+Title: Kraken CEO - “I asked our Compliance team what they thought of Neutrino. Fortunately, they'd just completed an evaluation. Neutrino came in last place on product (out of the 5) but was disqualified anyway due to the risks.“
+Score: 55
+URL: https://twitter.com/jespow/status/1102346122138333184?s=21
+
+ID: 3
+Title: MONERO ALERT: Stop using Ledger with 0.14 client
+Score: 29
+URL: https://www.reddit.com/r/Monero/comments/ax0pqt/alert_stop_using_ledger_with_014_client/
+
+ID: 4
+Title: The biggest Cryptocurrency problems have already been solved - Start using one today :)
+Score: 40
+URL: https://i.imgur.com/xbE959b.png
+
+ID: 5
+Title: In addition to hiring ex-Hacking Team members, Coinbase failed to disclose customer data being sold
+Score: 243
+URL: https://twitter.com/tuurdemeester/status/1102205826872287232?s=21
+
+ID: 6
+Title: My dad is going to invest alot into a really suspicious coin.
+Score: 24
+URL: https://www.reddit.com/r/CryptoCurrency/comments/ax1erx/my_dad_is_going_to_invest_alot_into_a_really/
+
+ID: 7
+Title: Coinbase admits third-party provider sold client data
+Score: 141
+URL: https://www.thenewpaper.io/2019/03/coinbase-admits-to-the-selling-of-client-data/
+
+ID: 8
+Title: Ledger needs to do something about these users spamming adverts all over reddit, it’s putting me off even buying one.
+Score: 29
+URL: https://i.imgur.com/OhruzJd.jpg
+
+ID: 9
+Title: Freeland presentation on EBIC 2019 in Austria, 3 March 2019. Passport of Digital State.
+Score: 63
+URL: https://www.youtube.com/watch?v=ZKcK-ElZg-U
+
+ID: 10
+Title: ENJ Unity SDK about to be deployed to testnet and featured on Unity Asset Store front page. Demo will be featured at GDC (Game Dev Conference) on the 18th. Actual adoption
+Score: 7
+URL: https://blog.enjincoin.io/announcing-the-enjin-blockchain-sdk-for-unity-coming-to-ethereum-testnet-b939b52b14d9
+
+ID: 11
+Title: Newb review = Crypto currency is not mainstream yet
+Score: 37
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awvsye/newb_review_crypto_currency_is_not_mainstream_yet/
+
+ID: 12
+Title: Can anyone help me strategize selling 1 btc for maximum profits without hodling to the top? This is what I came up with so far. (First time planning something like this out) This all revolves around btc making it to 100k USD.
+Score: 3
+URL: https://i.redd.it/9rrz90pvg1k21.png
+
+ID: 13
+Title: Fake deposit amount exchange vulnerability in Monero
+Score: 66
+URL: https://medium.com/@crypto_ryo/fake-deposit-amount-exchange-vulnerability-in-monero-dc230f7f02d8
+
+ID: 14
+Title: HTC Exodus 1 blockchain smartphone ready for non-crypto users
+Score: 13
+URL: https://androidcommunity.com/htc-exodus-1-blockchain-smartphone-ready-for-non-crypto-users-20190227/
+
+ID: 15
+Title: Donaid Public Beta is live! Built on Request.
+Score: 239
+URL: https://donaid.io/
+
+ID: 16
+Title: dGoods Creating A Digital Standard for Virtual Items
+Score: 3
+URL: https://bitcoinexchangeguide.com/dgoods-digital-goods-standard/
+
+ID: 17
+Title: Cryptocurrency and recession
+Score: 5
+URL: https://www.reddit.com/r/CryptoCurrency/comments/ax09bl/cryptocurrency_and_recession/
+
+ID: 18
+Title: Institutional Money Rebranding Crypto as Digital Assets - Bakkt, Fidelity & Erisx - Token Economy
+Score: 3
+URL: https://www.youtube.com/watch?v=3mbw_l4_qUg
+
+ID: 19
+Title: US Federal Reserve Adds Bitcoin "crash" to Stress Test Scenarios
+Score: 54
+URL: https://kryptoposten.dk/en/us-federal-reserve-tilfoejer-bitcoin-crash-til-stress-test-senarier/
+
+ID: 20
+Title: What if.. Skip if you have heart problems.
+Score: 18
+URL: https://i.redd.it/7gbcnl6aoxj21.jpg
+
+ID: 21
+Title: Head of European Securities and Markets Authority: It’s “Time to Deliver” on Digital Asset Regulation
+Score: 45
+URL: https://thetokenist.io/head-of-european-securities-and-markets-authority-its-time-to-deliver-on-digital-asset-regulation/
+
+ID: 22
+Title: Which crypto currencies have great developer and/or user communities?
+Score: 22
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awttsz/which_crypto_currencies_have_great_developer/
+
+ID: 23
+Title: Rutger Bregman talks about bullshit jobs and uses an example we should all enjoy
+Score: 25
+URL: https://www.youtube.com/watch?v=3x2vh5eMjGI&t=22m10s
+
+ID: 24
+Title: Quadriga has 6 cold wallets but they don't hold any crypto
+Score: 5
+URL: https://www.bloomberg.com/news/articles/2019-03-01/quadriga-has-6-cold-wallets-but-they-don-t-hold-any-crypto
+
+ID: 25
+Title: Your strong password might be a weak one!
+Score: 0
+URL: https://imgur.com/gallery/6ZXsAV5
+
+ID: 26
+Title: Bitcoin Lightning Network Upgrade & Kroger - Delete Coinbase - R3 Corda Settler XRP Demo - Ripple Remessa - CZ Binance AMA - Bittrex Cryptofacil Ex
+Score: 2
+URL: https://www.youtube.com/watch?v=qEFzchUTZgE
+
+ID: 27
+Title: BITCOIN's WEALTH CREATION STORY: Halving, Boom, Burst......repeat
+Score: 6
+URL: https://cryptolearninvest.com/bitcoins-wealth-creation-story-halvingboomburst-repeat/
+
+ID: 28
+Title: Ethereum, Ripple, Hedera Hashgraph, Zilliqa will be taking stage at Dublin Tech Summit - Ireland
+Score: 18
+URL: https://blockference.com/blockchain-conferences/dublin-tech-summit-dublin-627
+
+ID: 29
+Title: Buying Bitcoin At ATM [SIMPLE EXPLANATION]
+Score: 15
+URL: https://www.youtube.com/watch?v=wU--xItin60&feature=youtu.be
+
+ID: 30
+Title: TrustUnion Backstage New Letter No. 31
+Score: 0
+URL: https://www.reddit.com/r/CryptoCurrency/comments/ax2eiv/trustunion_backstage_new_letter_no_31/
+
+ID: 31
+Title: Cryptocurrency Podcast | Buy Or Sell What The Hell - Episode 2
+Score: 1
+URL: https://www.youtube.com/attribution_link?a=A1IfGMfffaE&u=%2Fwatch%3Fv%3D8r__9IMLF_8%26feature%3Dshare
+
+ID: 32
+Title: New Superorder Terminal is Officially Live!
+Score: 10
+URL: https://traderschat.io/t/new-superorder-terminal-is-officially-live/84
+
+ID: 33
+Title: Recently, #stackingsats (Stacking Satoshis) has begun to garner traction in halls of the school of Bitcoin. The satoshi accumulation movement scored a big win on Saturday, as Twitter CEO Jack Dorsey, joined in on the fun, purchasing Bitcoin on the Square app.
+Score: 3
+URL: https://www.newsbtc.com/2019/03/03/heres-why-twitter-ceo-jack-dorsey-co-are-stacking-bitcoin-satoshis/
+
+ID: 34
+Title: Will the Crypto Media ever follow the ethics of Journalism?
+Score: 11
+URL: https://financialreport24.com/2199/will-the-crypto-media-ever-follow-the-ethics-of-journalism/
+
+ID: 35
+Title: Top Five Crypto - March 3, 2019 - Plus ETH & Zilliqa Mainnet (Honest!)
+Score: 0
+URL: https://www.youtube.com/attribution_link?a=yRz-kyONMZk&u=%2Fwatch%3Fv%3DGKE6YCje5Vs%26feature%3Dshare
+
+ID: 36
+Title: An Excellent Explanation on the Future of Blockchain and Crypto Currencies. (2016 Ted Talk)
+Score: 3
+URL: https://www.youtube.com/watch?v=Pl8OlkkwRpc
+
+ID: 37
+Title: Bitcoin Price Prediction by The Wisdom of Crowd (2022)
+Score: 0
+URL: https://www.youtube.com/watch?v=hP1xdZ-NzRg
+
+ID: 38
+Title: China banned 23 million people last year from buying plane/train tickets because their social credit scores were too low. That is just the start. Now tell me again the "benefits" of Facebook or JP Morgan coin over bitcoin. Do they really outweigh that dystopian future?
+Score: 226
+URL: https://twitter.com/AlecZiupsnys/status/1101875282225582080
+
+ID: 39
+Title: I don't know if this already posted but i find this is hilarious
+Score: 6
+URL: https://www.youtube.com/watch?v=EzXM2x6rQhs
+
+ID: 40
+Title: Is Malta Really A Crypto Utopia?
+Score: 2
+URL: https://medium.com/@swagmantids/is-malta-really-a-crypto-utopia-ed17877e382e?source=friends_link&sk=8e6492a6d516e42e32db55bd35e4b865
+
+ID: 41
+Title: WARNING: Owning XRP is a gamble, not an investment! Read more here. . .
+Score: 0
+URL: https://medium.com/@KingofkingsandLordoflords/warning-owning-xrp-is-a-gamble-not-an-investment-read-more-here-9832507699a6
+
+ID: 42
+Title: Why is there a movement to #DeleteCoinbase? Here's a detailed explanation.
+Score: 27
+URL: https://www.youtube.com/watch?v=0l1KwAZKGts
+
+ID: 43
+Title: Galaxy S10 to have crypto cold storage wallet built into the phone! I’m switching now from iPhone 7 to S10!
+Score: 17
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awr3yb/galaxy_s10_to_have_crypto_cold_storage_wallet/
+
+ID: 44
+Title: Constantinople has been successfully implemented, and Breaker's got the theme song.
+Score: 0
+URL: https://content.breaker.io/?type=albums&id=57fbe79949028e2e546e5c786b7b678d7067c7f4fae9c38051ac292b4fd6eba0&utm_source=reddit&utm_medium=social&utm_campaign=constantinople&utm_content=cryptocurrency_subreddit_take2
+
+ID: 45
+Title: List of Today's and Tomorrow's Upcoming Events
+Score: 5
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awu8jf/list_of_todays_and_tomorrows_upcoming_events/
+
+ID: 46
+Title: Thot Coin to the rescue...
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awyvbo/thot_coin_to_the_rescue/
+
+ID: 47
+Title: We all love ICOs
+Score: 67
+URL: https://i.redd.it/r1qk8282asj21.png
+
+ID: 48
+Title: Is the Petro a thing? Is it a scam? Please send me good articles.
+Score: 0
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awyqrx/is_the_petro_a_thing_is_it_a_scam_please_send_me/
+
+ID: 49
+Title: XMR-Stak 2.9.0 - Early CN-R support
+Score: 0
+URL: https://twitter.com/fireice_uk/status/1102316851827277824
+
+ID: 50
+Title: Fintrux Network [FTX] March 3rd AMA. Read how FTX approaches the P2P lending in a completely new and unique way.
+Score: 0
+URL: https://www.reddit.com/r/CryptoCurrency/comments/ax0zqq/fintrux_network_ftx_march_3rd_ama_read_how_ftx/
+
+ID: 51
+Title: Why crypto?
+Score: 17
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awr5jx/why_crypto/
+
+ID: 52
+Title: FYI, you'll pay less than 0.5% in fees when buying BTC, ETH, XRP, etc., with a debit card or bank transfer with Wirex 3.0
+Score: 3
+URL: https://twitter.com/quick_penguin/status/1102255023952723968
+
+ID: 53
+Title: A Primer on Bitcoin Investor Sentiment and Changes in Saving Behavior - Coin Savage
+Score: 2
+URL: https://coinsavage.com/content/2019/02/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior/
+
+ID: 54
+Title: I'll go back to using tally sticks as money before using Facebook coin.
+Score: 89
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awm0eh/ill_go_back_to_using_tally_sticks_as_money_before/
+
+ID: 55
+Title: How to Use Multisig to Keep Your Coins Ultra-Safe. Commonly used by cryptocurrency exchanges to ensure funds can’t be moved by a rogue employee, multisig also has applications for end-users.
+Score: 12
+URL: https://www.coinfi.com/news/486285/how-to-use-multisig-to-keep-your-coins-ultra-safe
+
+ID: 56
+Title: This week we’re talking mobile, decentralized exchanges, and 96 hour journeys around the world. Join us on the blog to find out what’s percolating at Divi this week!
+Score: 2
+URL: https://blog.diviproject.org/march-3-2019-weekly-update/
+
+ID: 57
+Title: Brendan Eich explains the vision of Brave/BAT
+Score: 35
+URL: https://www.mobileworldlive.com/latest-stories/mwc19interview-bravesoft/
+
+ID: 58
+Title: My Proposal for the Satoshi Symbol
+Score: 0
+URL: https://i.redd.it/8adcheo5byj21.jpg
+
+ID: 59
+Title: Convenience store, downtown Toronto
+Score: 109
+URL: https://v.redd.it/gxby7bvtmqj21
+
+ID: 60
+Title: Bitcoin Price Appears to Directly Influence Google Search Trends
+Score: 0
+URL: https://www.cryptocraze.club/archive/bitcoin-price-directly-influences-google-search-trends
+
+ID: 61
+Title: IOTA Revolutionizes International Trade: Track and Trace Container Demo
+Score: 125
+URL: https://v.redd.it/xtteadh04qj21
+
+ID: 62
+Title: Cold wallet Vs. Exchange
+Score: 7
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awrays/cold_wallet_vs_exchange/
+
+ID: 63
+Title: Bitforex exchange thriving on fake volumes, bad for the industry
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrency/comments/aww0mq/bitforex_exchange_thriving_on_fake_volumes_bad/
+
+ID: 64
+Title: Regarding Facebook’s cryptocurrency
+Score: 0
+URL: https://techcrunch.com/2019/03/03/regarding-facebooks-cryptocurrency/
+
+ID: 65
+Title: Add to your calendar Divi event: Listing on Cloverdex (April 2019)
+Score: 1
+URL: https://coindar.org/en/event/divi-divx-listing-on-cloverdex-18068
+
+ID: 66
+Title: The Future of Blockchain Voting
+Score: 0
+URL: https://toshitimes.com/the-future-of-blockchain-voting
+
+ID: 67
+Title: Nimiq: a cryptocurrency focused on simplicity
+Score: 0
+URL: https://nimiq.com/en/#splash
+
+ID: 68
+Title: How to create a cryptocurrency watchlist 2019
+Score: 0
+URL: https://youtu.be/nzGEWrADzUA
+
+ID: 69
+Title: "Director of Institutional Sales at Coinbase praising Neutrino's "best-in-class technology" and saying that they needed to migrate to another "provider" because their previous one was "selling client data to outside sources." https://t.co/aM9D7RFtBQ"
+Score: 2
+URL: https://twitter.com/J9Roem/status/1102161829252526081?s=19
+
+ID: 70
+Title: Downtown Vienna.
+Score: 69
+URL: https://i.redd.it/rlj2iuionqj21.jpg
+
+ID: 71
+Title: How much ETH/BTC do these failed ICOs still have?
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awv70z/how_much_ethbtc_do_these_failed_icos_still_have/
+
+ID: 72
+Title: Eyal Hertzog, Brock Pierce and Ben Sigman talk about how Bancor came about and a few other interesting tidbits! Full video here.
+Score: 1
+URL: https://twitter.com/Bancor/status/1102227966304632833
+
+ID: 73
+Title: Website that shows ERC-1155 collectables?
+Score: 6
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awr2jv/website_that_shows_erc1155_collectables/
+
+ID: 74
+Title: LNTrustChain arrives in Iran - BItcoin is a true example of censorship resistance and borderless value transfer, via the LightningNetwork
+Score: 0
+URL: https://twitter.com/ziya_sadr/status/1102139102508605440?s=21
+
+ID: 75
+Title: Bitcoin Stable
+Score: 0
+URL: https://i.redd.it/dsa2cekq8xj21.jpg
+
+ID: 76
+Title: When this post is 11.5 hours old, Smartagrihubs new site launches who's members consist of 108 organizations from 22 European countries that OriginTrail will be the go-to Blockchain solution for.
+Score: 0
+URL: http://smartagrihubs.eu
+
+ID: 77
+Title: QuarkChain - CZ/SK komunita
+Score: 0
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awug4r/quarkchain_czsk_komunita/
+
+ID: 78
+Title: From gas that powers an ecosystem to a top 10 crypto asset
+Score: 2
+URL: https://twitter.com/DataLightMe/status/1101932821462028294
+
+ID: 79
+Title: Dan Larimer speaks... Public Road Map + Product Showcase?
+Score: 0
+URL: https://www.theeoswriter.io/the-feed/2019/3/4/dan-larimer-speaks-public-road-map-product-showcase
+
+ID: 80
+Title: Lambos look different than they used to
+Score: 2415
+URL: https://i.imgur.com/2uWLLEs.jpg
+
+ID: 81
+Title: Neon District, what we know so far! Early Access release date confirmed.
+Score: 0
+URL: https://medium.com/@crelde.itu/neon-district-what-we-know-so-far-c96c153d7b07
+
+ID: 82
+Title: Tokens.net is gaining liqudity
+Score: 1
+URL: https://www.reddit.com/r/TokensExchange/comments/awu3rc/tokensnet_is_gaining_liqudity/
+
+ID: 83
+Title: Facebook's "FaceCoin" Will be more Similar to JPM coin than Bitcoin
+Score: 1
+URL: https://7bitcoins.com/facebook-facecoin-telegram-bitcoin/
+
+ID: 84
+Title: March 2019: BTC/ETH Bottom Callers Contest & Winner Announcements
+Score: 1
+URL: https://medium.com/@492727ZED/march-2019-btc-eth-bottom-callers-contest-winner-announcements-615515c9fd57
+
+ID: 85
+Title: XLM. Coinbase. Facebook. Old news now relevant? Hmmmm 🤔
+Score: 0
+URL: https://cryptocurrencynews.com/stellar-news-price-rumors/
+
+ID: 86
+Title: Masternode Charity
+Score: 0
+URL: https://fauceteer.pw/masternode-charity/
+
+ID: 87
+Title: Introduction to nano-tipping on Twitter, Reddit, Twitch and Discord
+Score: 110
+URL: https://medium.com/nanocurrency/nano-digital-money-is-here-3d44d1b7ee26
+
+ID: 88
+Title: The era of cryptocurrency smartphones: HTC Exodus 1 and Samsung Galaxy S10 - Coin Savage
+Score: 34
+URL: https://coinsavage.com/content/2019/02/the-era-of-cryptocurrency-smartphones-htc-exodus-1-and-samsung-galaxy-s10/
+
+ID: 89
+Title: The Delete Coinbase Movement Drama
+Score: 0
+URL: https://www.youtube.com/watch?v=NONDm0SFMrE
+
+ID: 90
+Title: QuadrigaCX Debacle Continues: £100m Believed To Be Found While EY Discover Empty Wallets & Alias Accounts
+Score: 79
+URL: https://www.cryptimi.com/news/100-million-suspected-in-other-exch/
+
+ID: 91
+Title: Daily Market Recap - 03/03 - Crypto Market On A Sleepy Sunday, Low Volatility May Be Nearing Its Breaking Point
+Score: 1
+URL: https://dna.coinve.st/news/articles/2019-03-03/Crypto-Market-On-A-Sleepy-Sunday-Low-Volatility-May-Be-Nearing-Its-Breaking-Point
+
+ID: 92
+Title: If SHA-256 was to be cracked by a supercomputer one day, what other (superior) encryption method would most likely replace it?
+Score: 1
+URL: https://www.quora.com/unanswered/If-the-hashing-function-SHA-256-was-to-be-cracked-by-a-supercomputer-one-day-what-other-encryption-algorithm-would-most-likely-replace-it-to-secure-the-Bitcoin-network?ch=10&share=e6cab56c&srid=Aq1J
+
+ID: 93
+Title: Bitcoin and Cryptocurrency Fans are Closing Their Coinbase Accounts to Protest
+Score: 68
+URL: https://toshitimes.com/bitcoin-and-cryptocurrency-fans-are-closing-their-coinbase-accounts-to-protest/
+
+ID: 94
+Title: Kik Gears up to Battle the SEC
+Score: 0
+URL: https://theyellowbitroad.com/blog/2019/03/03/kik-gears-up-to-battle-the-sec/
+
+ID: 95
+Title: No, Bitcoin Cash (BCH) Wasn't Banned in Thailand: More Reason to Distrust r/Bitcoin
+Score: 0
+URL: https://coinspice.io/news/no-bitcoin-cash-bch-wasnt-banned-in-thailand-more-reason-to-distrust-r-bitcoin/
+
+ID: 96
+Title: It has been a volatile last two years in the cryptocurrency world, my confidence over time has only grown as experiments have taken their course with successes and failures that we can all learn from. I predict that the next two years will at the very least be just as exiting.
+Score: 0
+URL: https://twitter.com/Justin_Bons/status/1102282697144233984?s=19
+
+ID: 97
+Title: $HPB Founder Xiaoming Wang AMA from WeChat
+Score: 2
+URL: https://www.reddit.com/r/HPB_Global/comments/avrydz/hpb_ceo_wang_xiaoming_holds_ama_through_wechat/
+
+ID: 98
+Title: IOTA Becomes Founding Member of International Association for Trusted Blockchain Applications
+Score: 36
+URL: https://iota-news.com/iota-becomes-founding-member-of-international-association-for-trusted-blockchain-applications/
+
+ID: 99
+Title: Is This A Buy Signal For Bitcoin & Crypto Markets?
+Score: 0
+URL: https://www.youtube.com/watch?v=plk5ihrUBv8
+
+
+
+SUBREDDIT: CryptoCurrencyTrading
+------------------------------------------------------------
+ID: 0
+Title: We are sorry for comments that have been unnecessarily removed by AutoMod, and have completely updated the AutoMod configurations.
+Score: 82
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/93h7b8/we_are_sorry_for_comments_that_have_been/
+
+ID: 1
+Title: Daily Discussion Thread
+Score: 3
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awrac7/daily_discussion_thread/
+
+ID: 2
+Title: Coinbase Executive: Our Client Data Was Sold By Third-Party Providers
+Score: 8
+URL: http://cryptodailynewsu.blogspot.com/2019/03/coinbase-executive-our-client-data-was.html
+
+ID: 3
+Title: Ethereum Monthly Outlook - Trading Analysis
+Score: 2
+URL: https://www.publish0x.com/chris-el-rey-ta-series/ethereum-monthly-outlook-spring-season-is-here-xlqod
+
+ID: 4
+Title: Start Your Earing With $100.
+Score: 2
+URL: https://www.xchmoney.com/
+
+ID: 5
+Title: Blockstream releases c-lightning 0.7 for Bitcoin Lightning Network
+Score: 2
+URL: http://cryptodailynewsu.blogspot.com/2019/03/blockstream-releases-c-lightning-07-for.html
+
+ID: 6
+Title: How To Turn Small Amounts Of Shitcoins Into 3 USDT. Get $3 USDT On OKEx Exchange! #Okex
+Score: 1
+URL: https://www.youtube.com/watch?v=Zz7MkoEufs4&feature=youtu.be
+
+ID: 7
+Title: Vite Labs decentralized exchange ViteX launching in April
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/vite-labs-decentralized-exchange-vitex.html
+
+ID: 8
+Title: How different facts of the same event shape your understanding of the world
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/ax2rlc/how_different_facts_of_the_same_event_shape_your/
+
+ID: 9
+Title: Crypto Trading Giant Circle Wants to Raise $250 Million in Funding – But Why?
+Score: 1
+URL: https://finance.yahoo.com/news/crypto-trading-giant-circle-wants-211827944.html
+
+ID: 10
+Title: Research: Trading Bots vs Humans
+Score: 1
+URL: https://coinnounce.com/research-trading-bots-vs-humans/
+
+ID: 11
+Title: The Right Way to Do Blockchain Consortiums - CoinDesk
+Score: 1
+URL: https://www.coindesk.com/the-right-way-to-do-blockchain-consortiums
+
+ID: 12
+Title: The Right Way to Do Blockchain Consortiums - CoinDesk
+Score: 1
+URL: https://www.coindesk.com/the-right-way-to-do-blockchain-consortiums
+
+ID: 13
+Title: Bitcoin Could Top 102K During The Next Crypto Bull-Run According To Past Market Cycles
+Score: 14
+URL: http://cryptodailynewsu.blogspot.com/2019/03/bitcoin-could-top-102k-during-next.html
+
+ID: 14
+Title: Johnny LYU on Twitter
+Score: 1
+URL: https://twitter.com/lyu_johnny/status/1101444278117556224
+
+ID: 15
+Title: Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week
+Score: 2
+URL: http://cryptodailynewsu.blogspot.com/2019/03/hodlers-digest-feb-25march-3-top.html
+
+ID: 16
+Title: Ethereum Co-Founder Vitalik Buterin: ETH Is a Solution to Bitcoin’s Limited Functionality
+Score: 7
+URL: http://cryptodailynewsu.blogspot.com/2019/03/ethereum-co-founder-vitalik-buterin-eth_3.html
+
+ID: 17
+Title: Will we wait for the coin from Facebook and whether it is necessary for a centralized social network?
+Score: 7
+URL: https://twitter.com/xcoex/status/1101410491438645248
+
+ID: 18
+Title: How Cryptocurrency Investors Are Using Trading Bots to Automate Their Trading Strategies
+Score: 2
+URL: https://blog.hodlbot.io/how-investors-are-using-hodlbot
+
+ID: 19
+Title: Coinchase interest on you're savings account
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awxy8v/coinchase_interest_on_youre_savings_account/
+
+ID: 20
+Title: KoinFox Review - Wallet connected to multiple exchanges with Enhanced Trading Functionality
+Score: 2
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awvbpi/koinfox_review_wallet_connected_to_multiple/
+
+ID: 21
+Title: Dash’s “Klingon” Problem and How to Fix It
+Score: 2
+URL: https://dashnews.org/dashs-klingon-problem-and-how-to-fix-it/
+
+ID: 22
+Title: Top 5 Crypto Performers Overview: Binance Coin, Bitcoin SV, Ripple, Dash, Litecoin
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/top-5-crypto-performers-overview.html
+
+ID: 23
+Title: Bloomberg: Crypto Companies Still Run Into Trouble Opening Bank Accounts
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/bloomberg-crypto-companies-still-run.html
+
+ID: 24
+Title: TOKENMOM TOKEN DISTRIBUTION
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awxbt4/tokenmom_token_distribution/
+
+ID: 25
+Title: Unconfirmed: Goldman Sachs-Backed Crypto Payments Startup Circle Seeks $250M in Funding
+Score: 2
+URL: http://cryptodailynewsu.blogspot.com/2019/03/unconfirmed-goldman-sachs-backed-crypto.html
+
+ID: 26
+Title: Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/most-top-cryptos-see-minor-losses-as.html
+
+ID: 27
+Title: Scammers, Satoshi and Tesla Miners: Elon Musk’s Complex Relationship With Crypto
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/scammers-satoshi-and-tesla-miners-elon.html
+
+ID: 28
+Title: QuadrigaCX Reportedly Stored ETH on Kraken, Bitfinex and Poloniex, Research Finds
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/quadrigacx-reportedly-stored-eth-on.html
+
+ID: 29
+Title: An Insight into KuCoin Plus – KuCoin Updates and Further Information Blog
+Score: 1
+URL: https://blog.kucoin.com/an-insight-into-kucoin-plus-xl-rd
+
+ID: 30
+Title: Ethereum Co-Founder Vitalik Buterin: ETH Is a Solution to Bitcoin’s Limited Functionality
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/ethereum-co-founder-vitalik-buterin-eth.html
+
+ID: 31
+Title: #DeleteCoinbase: Exchange Users Respond to Acquisition of a Firm Run by Former Spyware Developers
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/deletecoinbase-exchange-users-respond.html
+
+ID: 32
+Title: Bitcoin Hovers Over $3,850 as Most Top Cryptos See Losses
+Score: 8
+URL: http://cryptodailynewsu.blogspot.com/2019/03/bitcoin-hovers-over-3850-as-most-top.html
+
+ID: 33
+Title: Costa Rica: A New Crypto Heaven
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/costa-rica-new-crypto-heaven.html
+
+ID: 34
+Title: Tech Firm Plans to Transform Advertising on Facebook, YouTube and Twitter Via Blockchain
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/tech-firm-plans-to-transform.html
+
+ID: 35
+Title: WolfpackBOT- An advanced trading bot
+Score: 11
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awmnvn/wolfpackbot_an_advanced_trading_bot/
+
+ID: 36
+Title: YOU WILL RECEIVE 0.1-10 BTC and 100-1M TOKENS + $100K
+Score: 0
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awshcl/you_will_receive_0110_btc_and_1001m_tokens_100k/
+
+ID: 37
+Title: Analysis: How Cryptocurrency Is Disrupting The Global Economy
+Score: 2
+URL: https://coinnounce.com/how-cryptocurrency-is-disrupting-the-global-economy/
+
+ID: 38
+Title: Get ready for a Facebook-sponsored cryptocurrency
+Score: 2
+URL: https://arstechnica.com/tech-policy/2019/02/get-ready-for-a-facebook-sponsored-cryptocurrency/
+
+ID: 39
+Title: This Week In Dash: February 25 – March 2
+Score: 8
+URL: https://dashnews.org/this-week-in-dash-february-25-march-2/
+
+ID: 40
+Title: SOMESING
+Score: 2
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awonff/somesing/
+
+ID: 41
+Title: SOMESING THE NEW WAVE
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awoag9/somesing_the_new_wave/
+
+ID: 42
+Title: New Superorder Terminal is Officially Live!
+Score: 7
+URL: http://traderschat.io/t/new-superorder-terminal-is-officially-live/84
+
+ID: 43
+Title: Asia Pacific Conservative Union Launches Blockchain Ecosystem to Fight Authoritarianism
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/asia-pacific-conservative-union.html
+
+ID: 44
+Title: Revolutionary margin trading platform Monfex is set to take crypto finance to the next level
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/revolutionary-margin-trading-platform.html
+
+ID: 45
+Title: Crypto Taxes Rules for Major Countries (US, UK, Australia, EU, Canada)
+Score: 2
+URL: https://www.reddit.com/r/CryptoCurrency/comments/awk3b5/crypto_taxes_rules_for_major_countries_us_uk/
+
+ID: 46
+Title: Good day guys. I will love you guys to check out KoinFox. Konifox is Enhanced Trading on your Favorite Exchanges directly from your wallet!
+Score: 1
+URL: https://www.reddit.com/r/algotrading/comments/awlnfi/koinfox_enhanced_trading_on_your_favorite/
+
+ID: 47
+Title: ICO showcase: From raising money apparatus to an 'unregulated security'
+Score: 1
+URL: https://www.inwara.com/ico-market-from-fundrasing-tool-unregulated-security
+
+ID: 48
+Title: From gas that powers an ecosystem to a top 10 crypto asset: today Binance Coin is far ahead of any other token or coin issued by a crypto exchange.
+Score: 0
+URL: https://i.redd.it/hkswbh0tlrj21.png
+
+ID: 49
+Title: Introducing "The Collective"
+Score: 11
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awf1e5/introducing_the_collective/
+
+ID: 50
+Title: Cryptopia Crypto Exchange Lost 9.4% of its Holdings to Hackers
+Score: 2
+URL: https://plus.google.com/+VladDirescu/posts/URA2ptPgeVR
+
+ID: 51
+Title: Buy cryptocurrencies online with XCH4NGE
+Score: 0
+URL: https://www.linkedin.com/pulse/buy-your-favorite-cryptocurrencies-online-xch4nge-ayuba-issaka
+
+ID: 52
+Title: How Cryptocurrency Investors Are Using Trading Bots to Automate Their Trading Strategies
+Score: 2
+URL: https://blog.hodlbot.io/how-investors-are-using-hodlbot
+
+ID: 53
+Title: Angry Bitcoin Fans Delete Coinbase Accounts to Protest Neutrino Acquisition - CoinDesk
+Score: 4
+URL: https://www.coindesk.com/bitcoin-delete-coinbase-neutrino-crypto
+
+ID: 54
+Title: Ethereum’s Core Dev Team Is Searching for a New Hard Fork Coordinator
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/ethereums-core-dev-team-is-searching.html
+
+ID: 55
+Title: Day 4 Live Bitcoin Trading 5,03% Profit - Crypto Market Trading Bitmex
+Score: 1
+URL: https://www.youtube.com/watch?v=gK_zkYsE2LM
+
+ID: 56
+Title: How to Sell Bitcoin
+Score: 1
+URL: https://www.youtube.com/attribution_link?a=7hioKWmwzpg&u=%2Fwatch%3Fv%3D8cKnv-oyCdc%26feature%3Dshare
+
+ID: 57
+Title: Five Record-Breaking Cryptocurrency Scams in 2018
+Score: 12
+URL: https://askrypto.com/analysis/2019/03/five-record-breaking-cryptocurrency-scams-in-2018/
+
+ID: 58
+Title: Meticulous Institutional Accumulation Of $Btc $Bch $Vet...
+Score: 1
+URL: https://www.youtube.com/attribution_link?a=g8o8WQvWmYo&u=%2Fwatch%3Fv%3DqOmz_1NCFs8%26feature%3Dshare
+
+ID: 59
+Title: Weekly Price Recaps for Top 100 Coins and Major Ethereum Headlines
+Score: 1
+URL: https://medium.com/ethex-market/the-ethereum-report-7-42da412e35e9
+
+ID: 60
+Title: Ethereum creator Vitalik Buterin: Bitcoin does 1 thing well, like a calculator. But Ethereum is a smart phone - with endless posibilities via apps.....
+Score: 16
+URL: https://www.globalcryptopress.com/2019/03/ethereum-creator-vitalik-buterin.html
+
+ID: 61
+Title: Latest issue
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/latest-issue.html
+
+ID: 62
+Title: Wall Street & Bitcoin Friday Report & Analysis: Bullish S&P Above 28K, Bitcoin Losses 10% Weekly
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/wall-street-bitcoin-friday-report.html
+
+ID: 63
+Title: Blockstream Releases Upgrade of Its Bitcoin Lightning Network Implementation
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/blockstream-releases-upgrade-of-its.html
+
+ID: 64
+Title: BTC Trading In Tight Range: a Major Move Is Expected, But Where To? – Bitcoin Price Analysis Mar.2
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/btc-trading-in-tight-range-major-move.html
+
+ID: 65
+Title: Bittrex Has Invested $1.5 Million in South African Trading Platform
+Score: 1
+URL: https://medium.com/altcoin-magazine/altcoin-news-bittrex-has-invested-1-5-million-in-south-african-trading-platform-f48377e94828
+
+ID: 66
+Title: Exchange Token Category up 52%+ in the 30 days... Leading Indicator?
+Score: 1
+URL: https://www.altdex.co/exchange/
+
+ID: 67
+Title: Get $20 on Travala booking platform (pay by Paypal, CreditCard & Crypto) where you save a minimum of 15% on each booking! 🤩🤩🤩
+Score: 0
+URL: https://www.travala.com/ref/97AECC
+
+ID: 68
+Title: BITEX Now Available In OKEx And Coinall Exchange
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awfjn4/bitex_now_available_in_okex_and_coinall_exchange/
+
+ID: 69
+Title: Does cryptocurrency have more black swan events than other assets?
+Score: 1
+URL: https://medium.com/sophonexchange/does-cryptocurrency-have-more-black-swan-events-than-other-assets-c274ad26a5c2?source=friends_link&sk=2c11740350c92ec0161a9525faaa5b35
+
+ID: 70
+Title: Fetch (FET) Fetches Hefty Gains After Listing on Binance
+Score: 4
+URL: https://beincrypto.com/fetch-fet-fetches-hefty-gains-after-listing-on-binance/?utm_source=reddit&utm_medium=social&utm_campaign=fet
+
+ID: 71
+Title: Daily Discussion Thread
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awepf6/daily_discussion_thread/
+
+ID: 72
+Title: Blockstream Releases Lightning Upgrade With New 'Plugin' Functionality - CoinDesk
+Score: 1
+URL: https://www.coindesk.com/blockstream-releases-lightning-upgrade-with-new-plugin-functionality
+
+ID: 73
+Title: Rhode Island Bill Would Exclude Some Tokens From Securities Laws
+Score: 2
+URL: http://cryptodailynewsu.blogspot.com/2019/03/rhode-island-bill-would-exclude-some.html
+
+ID: 74
+Title: Report: QuadrigaCX Wallets Have Been Empty, Unused Since April
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/report-quadrigacx-wallets-have-been.html
+
+ID: 75
+Title: OptionsGeek Founder, Felix Frey, to Speak at TradersExpo, New York City
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/optionsgeek-founder-felix-frey-to-speak.html
+
+ID: 76
+Title: Major Saudi ATM Provider Partners With Blockchain Identity Platform
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/major-saudi-atm-provider-partners-with.html
+
+ID: 77
+Title: Assembly Bill 953: New Legislation Combines Weed and Stablecoins
+Score: 2
+URL: http://cryptodailynewsu.blogspot.com/2019/03/assembly-bill-953-new-legislation.html
+
+ID: 78
+Title: Binance Offers Token Rewards for Testing New Decentralized Platform
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/binance-offers-token-rewards-for.html
+
+ID: 79
+Title: Securities Lawsuit Against Ripple to Stay in Federal Court
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/securities-lawsuit-against-ripple-to.html
+
+ID: 80
+Title: Bitcoin, Ethereum, Ripple, EOS, Litecoin, Bitcoin Cash, Stellar, Tron, Binance Coin, Bitcoin SV: Price Analysis, March 1
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/bitcoin-ethereum-ripple-eos-litecoin.html
+
+ID: 81
+Title: Report: Blockchain and Crypto Firms in Malta Face Difficulty in Finding Banking Services
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/report-blockchain-and-crypto-firms-in.html
+
+ID: 82
+Title: Zcash is listed at Catex Exchange
+Score: 16
+URL: https://twitter.com/catexofficial/status/1100776996001538053
+
+ID: 83
+Title: See Lympo’s 2019 roadmap!
+Score: 12
+URL: http://medium.com/lympo-io/see-lympos-2019-roadmap-439662e49e5f?source=collection_home---4------2---------------------
+
+ID: 84
+Title: Bitcoin Approaches $3,900 as Crypto Markets Stabilize, Stock Market Slightly Down
+Score: 1
+URL: https://finance.yahoo.com/news/bitcoin-approaches-3-900-crypto-171600969.html
+
+ID: 85
+Title: Win rewards for NOT having to manually trade crypto!
+Score: 1
+URL: https://blog.shrimpy.io/blog/shrimpy-bitmart-partnership-promotion
+
+ID: 86
+Title: Bitcoin Exceeds PayPal in Annual Transaction Vol at $1.3T
+Score: 2
+URL: https://plus.google.com/102012235404616599689/posts/CxHnhnHbAL4
+
+ID: 87
+Title: Cryptopia will re-open on Monday, as Read Only
+Score: 7
+URL: https://beincrypto.com/hacked-exchange-cryptopia-to-reopen-but-in-read-only-mode/?utm_source=reddit&utm_medium=social&utm_campaign=reopen
+
+ID: 88
+Title: A plan to design a system that allows computation off-blockchain that is absolutely enforcible on-chain, and is scalable to billions of computations in a second, with minimal on-chain updates is already in process
+Score: 2
+URL: https://cryptodetail.com/what-plasma
+
+ID: 89
+Title: High Quality Projects | Get Into Kucoin Plus
+Score: 7
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/aw49ea/high_quality_projects_get_into_kucoin_plus/
+
+ID: 90
+Title: Ledger Nano X Competitor?! D'Cent Crypto Hardware Wallet Review
+Score: 1
+URL: https://www.youtube.com/attribution_link?a=GxQ7diM23Kk&u=%2Fwatch%3Fv%3DtMQG_5aRp8U%26feature%3Dshare
+
+ID: 91
+Title: Facebook Coin - A closer look
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencyTrading/comments/awanny/facebook_coin_a_closer_look/
+
+ID: 92
+Title: New Superorder Terminal is Officially Live!
+Score: 10
+URL: https://traderschat.io/t/new-superorder-terminal-is-officially-live/84
+
+ID: 93
+Title: TRON VibraVid: John McAfee Gets Behind TRON’s Upcoming Platform
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/tron-vibravid-john-mcafee-gets-behind.html
+
+ID: 94
+Title: IMF Recommends Immediate Action on Malta’s AML and CFT Supervision
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/imf-recommends-immediate-action-on.html
+
+ID: 95
+Title: FATF Issues Preliminary Guidelines on Digital Assets to Combat Money Laundering
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/fatf-issues-preliminary-guidelines-on.html
+
+ID: 96
+Title: BnkToTheFuture to enable early access to crypto projects for premium users
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/bnktothefuture-to-enable-early-access.html
+
+ID: 97
+Title: Investors in Overstock Crypto Subsidiary Reduce Investment from $404 Mln to $100 Mln
+Score: 1
+URL: http://cryptodailynewsu.blogspot.com/2019/03/investors-in-overstock-crypto.html
+
+ID: 98
+Title: CODEX Exchange is now integrated on ∆ Delta - Cryptocurrency Portfolio App!
+Score: 3
+URL: https://twitter.com/CODEX_Exchange/status/1101545177771098112
+
+ID: 99
+Title: Brazilian Exchange, CoinBene, Expands Liquidity With Dash Integration
+Score: 4
+URL: https://dashnews.org/brazilian-exchange-coinbene-expands-liquidity-with-dash-integration/
+
+
+
+SUBREDDIT: CryptoCurrencies
+------------------------------------------------------------
+ID: 0
+Title: Daily Crypto Discussion Thread 03/04/19
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/ax263d/daily_crypto_discussion_thread_030419/
+
+ID: 1
+Title: Official discord! (Still under construction)
+Score: 29
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/9u6wap/official_discord_still_under_construction/
+
+ID: 2
+Title: $356K Lamborghini Owned by Bitcoin Investor Found Crashed in a Ditch
+Score: 19
+URL: https://bitcoinerx.com/bitcoin/356k-lamborghini-owned-by-bitcoin-investor-found-crashed-in-a-ditch/
+
+ID: 3
+Title: Ledger Supported on the Binance Decentralized Exchange (DEX) Testnet
+Score: 1
+URL: https://www.ledger.fr/2019/02/20/ledger-supported-on-the-binance-decentralized-exchange-dex-testnet/?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_550500?r=fed6eda3e69c&tracker=nano-b
+
+ID: 4
+Title: Thailand bans Bitcoin Cash, Ethereum Classic and Litecoin to 'protect its citizens'
+Score: 28
+URL: https://gocryptowise.com/blog/thailand-bans-bitcoin-cash-ethereum-classic-and-litecoin/
+
+ID: 5
+Title: Here's what we know about Facebook's big, secretive push into cryptocurrency (FB)
+Score: 3
+URL: https://www.businessinsider.com/facebook-cryptocurrency-whatsapp-reports-rumors-2019-2
+
+ID: 6
+Title: U Network Dapp - U Got and BlockBoost Announce Strategic Partnership!
+Score: 1
+URL: https://link.medium.com/PcPfksaXLU
+
+ID: 7
+Title: Breaking News: Coinbase Data Breach Was the Reason They Bought Neutrino
+Score: 4
+URL: https://toshitimes.com/breaking-news-coinbase-data-breach-was-the-reason-they-bought-neutrino/
+
+ID: 8
+Title: where can I sell my XLM's for paypal?
+Score: 2
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/ax02qp/where_can_i_sell_my_xlms_for_paypal/
+
+ID: 9
+Title: Bluzelle announcing upcoming production-ready release with competitive features
+Score: 1
+URL: https://blog.bluzelle.com/end-of-february-product-roadmap-update-304b19a9e1
+
+ID: 10
+Title: What is Dash? Full guide to the instant and privacy coin
+Score: 0
+URL: https://www.cryptolinenews.com/2018/10/what-is-dash-privacy-coin/
+
+ID: 11
+Title: Chance Tweet Opens Door for Possible Future Crypto Acceptance by VISA-Ditching Kroger Co.
+Score: 1
+URL: https://bitcoinerx.com/opinion/cryptotwitter-chance-tweet-opens-door-for-possible-future-crypto-acceptance-by-visa-ditching-kroger-co/
+
+ID: 12
+Title: Phore Announces Synapse: A Next Gen Sharding Architecture - CoinNewsLive
+Score: 4
+URL: https://coinnewslive.com/phore-announces-synapse-a-next-gen-sharding-architecture/
+
+ID: 13
+Title: Azbit: Bravely venturing out despite the crypto winter
+Score: 1
+URL: https://www.inwara.com/azbit-crypto-banking-platform-data-transparency-certificate
+
+ID: 14
+Title: XRP News: Veteran Trader Peter Brandt Says XRP Market “Manipulated”, Investors Liable To Suffer
+Score: 2
+URL: https://todaysgazette.com/xrp-news-veteran-trader-peter-brandt-says-xrp-market-manipulated-investors-liable-to-suffer/
+
+ID: 15
+Title: &lt;h1&gt;Mastercard Patent Application To Make Blockchain Transactions Anonymous&lt;/h1&gt;
+Score: 3
+URL: https://www.cryptocoincache.com/h1mastercard-patent-application-to-make-blockchain-transactions-anonymous-h1/
+
+ID: 16
+Title: Trust Wallet: Secure Multi Coin Tutorial
+Score: 1
+URL: https://www.youtube.com/watch?v=JSL-c3k7NTU
+
+ID: 17
+Title: What are Smart Crypto Trading Bots?
+Score: 1
+URL: https://coinmetro.com/blog/what-are-smart-crypto-trading-bots/
+
+ID: 18
+Title: How Low Can Bitcoin (BTC) Fall After A Short Term Correction To The Upside?
+Score: 0
+URL: https://cryptodaily.co.uk/2019/03/how-low-can-bitcoin-fall-after-a-short-term-correction-to-the-upside
+
+ID: 19
+Title: How BTC Gift Cards Could Boost Adoption
+Score: 1
+URL: https://cryptodaily.co.uk/2019/02/btc-gift-cards-could-boost-adoption
+
+ID: 20
+Title: New York Bank to start opening accounts for crypto startups in Bermuda
+Score: 13
+URL: https://www.cryptolinenews.com/2019/03/crypto-startups-in-bermuda/
+
+ID: 21
+Title: Disgruntled Coinbase Users Start #DeleteCoinbase Hashtag
+Score: 0
+URL: https://cryptodaily.co.uk/2019/02/disgruntled-coinbase-users-start-deletecoinbase-hashtag
+
+ID: 22
+Title: BCF Extends Charity To 1328 Victims With BNB Donation. A Propelling Force For Binance Coin (BNB)?
+Score: 1
+URL: https://todaysgazette.com/bcf-extends-charity-to-1328-victims-with-bnb-donation-a-propelling-force-for-binance-coin-bnb/
+
+ID: 23
+Title: Thank You For 1k Subs! Maxdapp AMA!
+Score: 0
+URL: https://www.youtube.com/watch?v=VdZ_sx5CVjQ
+
+ID: 24
+Title: Revolut App Adds XRP, Bitcoin Cash to Crypto Options
+Score: 1
+URL: https://www.cryptocoincache.com/revolut-app-adds-xrp-bitcoin-cash-to-crypto-options/
+
+ID: 25
+Title: CRYPTOCURRENCY SCAM: Is anyone really this stupid?
+Score: 0
+URL: https://micky.com.au/cryptocurrency-scam-is-anyone-really-this-stupid/
+
+ID: 26
+Title: Daily Crypto Discussion Thread 03/03/19
+Score: 3
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/awptwj/daily_crypto_discussion_thread_030319/
+
+ID: 27
+Title: Binance: JP Morgan Coin will lead traditional institutions to adopt cryptocurrencies
+Score: 0
+URL: https://www.cryptolinenews.com/2019/03/jp-morgan-coin/
+
+ID: 28
+Title: The Courage to Innovate Without Permission
+Score: 5
+URL: https://www.cryptocoincache.com/the-courage-to-innovate-without-permission/
+
+ID: 29
+Title: New Physically-Backed Bitcoin ETF Proposal Filed with SEC
+Score: 0
+URL: https://www.cryptocoincache.com/new-physically-backed-bitcoin-etf-proposal-filed-with-sec/
+
+ID: 30
+Title: Is Vitalik Trolling Google?
+Score: 0
+URL: https://www.cryptocoincache.com/is-vitalik-trolling-google/
+
+ID: 31
+Title: Kraken Announces $100,000 Bounty for Successful Recovery of Lost Quadriga Funds
+Score: 3
+URL: https://beincrypto.com/kraken-announces-100000-bounty-for-successful-recovery-of-lost-quadriga-funds/?utm_source=reddit&utm_medium=social&utm_campaign=kraken
+
+ID: 32
+Title: Image Protect: Global Coin Report White Paper Review
+Score: 1
+URL: https://www.cryptocoincache.com/image-protect-global-coin-report-white-paper-review/
+
+ID: 33
+Title: An update on the upgrade/swap of the LYM token
+Score: 15
+URL: https://medium.com/lympo-io/an-update-on-the-upgrade-swap-of-the-lym-token-7517bec28bbe
+
+ID: 34
+Title: Jim Chanos Is Out of His Depth Trashing Crypto Assets
+Score: 1
+URL: https://www.cryptocoincache.com/jim-chanos-is-out-of-his-depth-trashing-crypto-assets/
+
+ID: 35
+Title: Facebook Taps Coinbase Board Member to Lead Blockchain Initiative
+Score: 1
+URL: https://www.cryptocoincache.com/facebook-taps-coinbase-board-member-to-lead-blockchain-initiative/
+
+ID: 36
+Title: PARQ Network
+Score: 0
+URL: https://cryptoshib.com/parq-network-connecting-customers-business-via-cashback/
+
+ID: 37
+Title: What Is the Smartshare Protocol?
+Score: 1
+URL: https://www.cryptocoincache.com/what-is-the-smartshare-protocol/
+
+ID: 38
+Title: LTC Boosts Adoption, TRON CEOs Predictions &amp; XRP to leave Coinbase
+Score: 0
+URL: https://cryptodaily.co.uk/2019/03/ltc-boosts-adoption-tron-ceo-predictions-xrp-leave-coinbase
+
+ID: 39
+Title: VoteCoin price: Does it indicate a long term investment opportunity?
+Score: 1
+URL: https://www.cryptolinenews.com/2019/03/votecoin-price/
+
+ID: 40
+Title: Oldest Bitcoin Exchange to Launch New Platform In June
+Score: 1
+URL: https://www.cryptocoincache.com/oldest-bitcoin-exchange-to-launch-new-platform-in-june/
+
+ID: 41
+Title: Seven Oil Companies Merged to Create Blockchain Consortium
+Score: 2
+URL: https://medium.com/altcoin-magazine/altcoin-news-seven-oil-companies-merged-to-create-blockchain-consortium-49f5f56f58bc
+
+ID: 42
+Title: Gooreo's Roadmap
+Score: 0
+URL: https://www.reddit.com/user/Oreocoin/comments/aw55hs/gooreos_roadmap/
+
+ID: 43
+Title: NeonDistrict Founder's Key. You can now sign-up for Release Waiting List
+Score: 1
+URL: https://founders-key-waitlist-prelaunch.kickoffpages.com?kid=X4AHZ
+
+ID: 44
+Title: How Cryptocurrency Investors Are Using Trading Bots to Automate Their Trading Strategies
+Score: 0
+URL: https://blog.hodlbot.io/how-investors-are-using-hodlbot
+
+ID: 45
+Title: Tokenmom Exchange, One is its Kind
+Score: 0
+URL: https://www.reddit.com/r/tokenmom/comments/awemn1/tokenmom_exchange_one_is_its_kind/
+
+ID: 46
+Title: Bitcoin and Cryptocurrency Fans are Closing Their Coinbase Accounts to Protest
+Score: 0
+URL: https://toshitimes.com/bitcoin-and-cryptocurrency-fans-are-closing-their-coinbase-accounts-to-protest/
+
+ID: 47
+Title: JPMorgan Tests Evidence-Based Privacy Technology with Zero Disclosure
+Score: 0
+URL: https://medium.com/altcoin-magazine/altcoin-news-jpmorgan-tests-evidence-based-privacy-technology-with-zero-disclosure-d8952f53722e
+
+ID: 48
+Title: Stellar (XLM) Is Ready For A Big Move Against Bitcoin (BTC)
+Score: 23
+URL: https://cryptodaily.co.uk/2019/03/stellar-is-ready-for-a-big-move-against-bitcoin
+
+ID: 49
+Title: Margin Trading
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/awh9qt/margin_trading/
+
+ID: 50
+Title: Get ready for a Facebook-sponsored cryptocurrency
+Score: 1
+URL: https://arstechnica.com/tech-policy/2019/02/get-ready-for-a-facebook-sponsored-cryptocurrency/
+
+ID: 51
+Title: JPMorgan says Bitcoin ETF is the Holy Grail? - 2018 will be the Year of Bitcoin! - #ADOPTION
+Score: 0
+URL: https://www.cryptocoincache.com/jpmorgan-says-bitcoin-etf-is-the-holy-grail-2018-will-be-the-year-of-bitcoin-adoption/
+
+ID: 52
+Title: Coinbase customers delete accounts after the exchange acquired a firm with a tainted past
+Score: 1
+URL: https://www.cryptolinenews.com/2019/03/coinbase-customers/
+
+ID: 53
+Title: Bitcoin Seeing Growth in Retail Investment Holdings
+Score: 6
+URL: https://beincrypto.com/bitcoin-seeing-growth-in-retail-investment-holdings/?utm_source=reddit&utm_medium=social&utm_campaign=bitcoin
+
+ID: 54
+Title: &lt;h1&gt;Cybersecurity Group Links Illicit Mining To NSA-Developed Exploit&lt;/h1&gt;
+Score: 2
+URL: https://www.cryptocoincache.com/h1cybersecurity-group-links-illicit-mining-to-nsa-developed-exploit-h1/
+
+ID: 55
+Title: Ripple Denies Coinbase Payoff Rumors Over XRP Listing
+Score: 2
+URL: https://bitcoinerx.com/altcoin/ripple-denies-rumors-of-paying-coinbase-for-listing-xrp/
+
+ID: 56
+Title: Steve Wozniak Sees 'Massive Value Creation' in Bitcoin Despite Bear Market
+Score: 42
+URL: https://bitcoinerx.com/bitcoin/steve-wozniak-sees-massive-value-creation-in-bitcoin-despite-bear-market/
+
+ID: 57
+Title: Creating Connectivity in The Blockchain Ecosystem
+Score: 1
+URL: https://www.cryptocoincache.com/creating-connectivity-in-the-blockchain-ecosystem/
+
+ID: 58
+Title: Noah Coin Gets Listed on Coinpayments to Become Available to Millions of Merchants
+Score: 2
+URL: https://www.cryptocoincache.com/noah-coin-gets-listed-on-coinpayments-to-become-available-to-millions-of-merchants-2/
+
+ID: 59
+Title: Daily Crypto Discussion Thread 03/02/19
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/awd4vj/daily_crypto_discussion_thread_030219/
+
+ID: 60
+Title: Welcome to the World's Leading Trustworthy Crypto Assets Platform | CoinBene
+Score: 0
+URL: https://youtu.be/RCk01ccL1zY
+
+ID: 61
+Title: Welcome to the World's Leading Trustworthy Crypto Assets Platform | CoinBene
+Score: 0
+URL: https://youtu.be/RCk01ccL1zY
+
+ID: 62
+Title: Zixx Launches New Roadmap!
+Score: 1
+URL: https://www.cryptocoincache.com/zixx-launches-new-roadmap/
+
+ID: 63
+Title: Waves Releases Smart Contracts on Testnet, Blockchain Devs Can Build Powerful Apps
+Score: 1
+URL: https://www.cryptocoincache.com/waves-releases-smart-contracts-on-testnet-blockchain-devs-can-build-powerful-apps/
+
+ID: 64
+Title: Merchant Accepts Cryptocurrency for Four Years, Receives Zero Transactions
+Score: 2
+URL: https://dashnews.org/merchant-accepts-cryptocurrency-for-four-years-receives-zero-transactions/
+
+ID: 65
+Title: Vaultitude Creates Unified Blockchain-Based Solution for Intellectual Property Management
+Score: 1
+URL: https://www.cryptocoincache.com/vaultitude-creates-unified-blockchain-based-solution-for-intellectual-property-management/
+
+ID: 66
+Title: Crypto Terminal Allows Traders to Build Automated Strategies and Access Multiple Exchanges
+Score: 7
+URL: https://www.bitcoininsider.org/article/61847/crypto-terminal-allows-traders-build-automated-strategies-and-access-multiple
+
+ID: 67
+Title: AC3 Has Been Listed on BTC-Alpha - ICON dApp
+Score: 1
+URL: http://medium.com/@AC3network/were-excited-to-announce-that-ac3-has-been-listed-on-3-of-btc-alpha-s-base-markets-49b318a836a5
+
+ID: 68
+Title: AION Development Update - Mobile SDKs, AION VM, dApps, Wallets, Interoperability
+Score: 1
+URL: https://youtu.be/_d4x4UDfO4s
+
+ID: 69
+Title: Huobi Is Launching a Cryptocurrency Exchange-Traded Fund
+Score: 1
+URL: https://www.cryptocoincache.com/huobi-is-launching-a-cryptocurrency-exchange-traded-fund/
+
+ID: 70
+Title: Niffler.co: Crypto Trading Without The Risk
+Score: 1
+URL: https://www.youtube.com/watch?v=lGtOmYg2_eM&t=225s
+
+ID: 71
+Title: Ethereum Hard Forks Successfully
+Score: 2
+URL: https://toshitimes.com/ethereum-hard-forks-successfully/
+
+ID: 72
+Title: A Thorough Investigation of the VIA Coin & SYS Coin "Binance Hack"
+Score: 1
+URL: https://blog.hodlbot.io/a-thorough-investigation-of-the-binance-hack
+
+ID: 73
+Title: Mati Greenspan on Facebook's sneaky crypto plans plus the retiring of a king and BNB's recent breakout performance
+Score: 1
+URL: https://bitcoinerx.com/newsletters/mati-greenspan-excuse-me-your-majesty/
+
+ID: 74
+Title: Constantinople and St. Petersburg Updates Were Successfully Activated on the Ethereum Network
+Score: 2
+URL: https://medium.com/altcoin-magazine/altcoin-news-constantinople-and-st-7941288a922e
+
+ID: 75
+Title: Coinbase: Clients Can Now Trade XRP
+Score: 4
+URL: https://toshitimes.com/coinbase-clients-can-now-trade-xrp/
+
+ID: 76
+Title: Over 600,000 Ethereum belonging to QuadrigaCX has been found
+Score: 4
+URL: https://coinrivet.com/breaking-over-600000-ethereum-belonging-to-quadrigacx-has-been-found/
+
+ID: 77
+Title: Crypto Money Laundering Cases In Japan Are Through The Roof
+Score: 1
+URL: https://cryptodaily.co.uk/2019/03/crypto-money-laundering-cases-in-japan-are-through-the-roof
+
+ID: 78
+Title: Crypto Crunch Meets Reporter Max Keiser For Exclusive Interview
+Score: 1
+URL: https://cryptodaily.co.uk/2019/03/crypto-crunch-meets-reporter-keiser-exclusive-interview
+
+ID: 79
+Title: The Utilisation of BTC in Turkey
+Score: 2
+URL: https://cryptodaily.co.uk/2019/03/utilisation-of-btc-in-turkey
+
+ID: 80
+Title: Kraken Offers $100k for Help in Locating the Missing QuadrigaCX Assets
+Score: 1
+URL: https://medium.com/altcoin-magazine/altcoin-news-kraken-offers-100k-for-help-in-locating-the-missing-quadrigacx-assets-bdf06184940a
+
+ID: 81
+Title: Trying to increase adoption - Adding Dash as a base pair on Purse.io?
+Score: 1
+URL: https://www.reddit.com/r/PurseIO/comments/aw5ab4/adding_dash_as_a_base_pair/
+
+ID: 82
+Title: Empirical Velocity Estimates and Artificial Volumes in Ethereum
+Score: 1
+URL: https://www.reddit.com/r/CryptoCurrencies/comments/aw5hep/empirical_velocity_estimates_and_artificial/
+
+ID: 83
+Title: Tax on the Sale of Marijuana in California Can Be Paid in Cryptocurrencies
+Score: 1
+URL: https://medium.com/altcoin-magazine/altcoin-news-tax-on-the-sale-of-marijuana-in-california-can-be-paid-in-cryptocurrencies-9f7fca39be6f
+
+ID: 84
+Title: tokenmom
+Score: 1
+URL: https://www.reddit.com/r/tokenmom/comments/aw2s0d/tokenmom/
+
+ID: 85
+Title: Gas Fees
+Score: 1
+URL: https://pumapay.io/#/news/gas-fees
+
+ID: 86
+Title: Facebook Cryptocurrency Already Getting Ready for Listing on Crypto Exchanges
+Score: 1
+URL: https://medium.com/altcoin-magazine/altcoin-news-facebook-cryptocurrency-already-getting-ready-for-listing-on-crypto-exchanges-bb57012dcfd7
+
+ID: 87
+Title: eToro are bullish on crypto - Millenials wants to invest in cryptocurrencies
+Score: 2
+URL: https://gocryptowise.com/blog/etoro-are-bullish-on-crypto/
+
+ID: 88
+Title: Artificial Intelligence for Advanced Blockchain Investigations
+Score: 1
+URL: https://medium.com/datadriveninvestor/artificial-intelligence-for-advanced-blockchain-investigations-1fb028a3ffbe
+
+ID: 89
+Title: Coinbase acquires Neutrino to surveil distributed ledgers, sparking privacy concerns
+Score: 3
+URL: https://beincrypto.com/coinbase-acquires-neutrino-to-surveil-users-of-bitcoin-and-other-cryptocurrencies/?utm_source=reddit&utm_medium=social&utm_campaign=neutrino
+
+ID: 90
+Title: Julius Baer, Third Largest Private Bank in Switzerland Enters Cryptocurrency Market
+Score: 18
+URL: https://www.btcnn.com/cryptocurrency-news/julius-baer-third-largest-private-bank-in-switzerland-enters-cryptocurrency-market/
+
+ID: 91
+Title: Coinbase Crypto Exchange Adds Support for XRP on Retail Platform and Mobile Apps
+Score: 1
+URL: http://www.thecoinrepublic.com/coinbase-crypto-exchange-adds-support-for-xrp-on-retail-platform-and-mobile-apps/
+
+ID: 92
+Title: Xank February Review
+Score: 3
+URL: https://medium.com/xankmoney/xank-february-review-5473d199cb58
+
+ID: 93
+Title: How Cryptocurrency is Making an Impact on Pensions
+Score: 1
+URL: https://cryptodaily.co.uk/2019/03/how-cryptocurrency-impacting-pensions
+
+ID: 94
+Title: Despite Hitting Monthly Price Lows, Bitcoin Network Fundamentals Keep Growing
+Score: 1
+URL: https://www.cryptocoincache.com/despite-hitting-monthly-price-lows-bitcoin-network-fundamentals-keep-growing/
+
+ID: 95
+Title: Rebalancing a crypto portfolio has still been outperforming HODL
+Score: 5
+URL: https://hackernoon.com/portfolio-rebalancing-for-cryptocurrency-7a129a968ff4
+
+ID: 96
+Title: Long Term Predictions: Will BTC Reach $100,000?
+Score: 1
+URL: https://cryptodaily.co.uk/2019/02/long-term-predictions-btc-reach-100000
+
+ID: 97
+Title: dApps building on AION
+Score: 2
+URL: https://imgur.com/rNJVgot
+
+ID: 98
+Title: Dash Launches New Website Refresh With User Flows, Roadmap
+Score: 10
+URL: https://dashnews.org/dash-launches-new-website-refresh-with-user-flows-roadmap/
+
+ID: 99
+Title: A Phone Call Could Impact Ethereum&#039;s Future – And It&#039;s Happening Today
+Score: 0
+URL: https://www.cryptocoincache.com/a-phone-call-could-impact-ethereums-future-and-its-happening-today/
+
+
+
+SUBREDDIT: CryptoMarkets
+------------------------------------------------------------
+ID: 0
+Title: Weekly Discussion Megathread - 25/Feb/2019
+Score: 4
+URL: https://www.reddit.com/r/CryptoMarkets/comments/aunkw5/weekly_discussion_megathread_25feb2019/
+
+ID: 1
+Title: Security Alert - Malicious links to a fake Atomic Wallet are being posted on many crypto subreddits
+Score: 13
+URL: https://old.reddit.com/r/CryptoCurrency/comments/asph9v/security_alert_malicious_links_to_a_fake_atomic/
+
+ID: 2
+Title: French President Emmanuel Macron discusses the uses of blockchain in agriculture and food industry. “Let’s do this in Europe, [be at the] the vanguard of agricultural data by developing tools that will track every product from raw material production to packaging and processing.”
+Score: 114
+URL: https://www.coinfi.com/news/486391/french-president-emmanuel-macron-discusses-the-uses-of-blockchain-in-agriculture-and-food-industry
+
+ID: 3
+Title: BITCOIN's WEALTH CREATION STORY: Halving, Boom, Burs.......repeat
+Score: 17
+URL: https://cryptolearninvest.com/bitcoins-wealth-creation-story-halvingboomburst-repeat/
+
+ID: 4
+Title: The Argentinean crypto market is growing at an exponential rate. More citizens now prefer transacting in crypto than before amid tumbling value of the Argentinian Peso and a general mistrust of Argentina’s banking sector.
+Score: 5
+URL: https://www.coinfi.com/news/486853/the-argentinean-crypto-market-defies-crypto-winter
+
+ID: 5
+Title: XRP News: Veteran Trader Peter Brandt Says XRP Market “Manipulated”, Investors Liable To Suffer
+Score: 16
+URL: https://todaysgazette.com/xrp-news-veteran-trader-peter-brandt-says-xrp-market-manipulated-investors-liable-to-suffer/
+
+ID: 6
+Title: Bolenum Exchange
+Score: 1
+URL: https://bolenum.com
+
+ID: 7
+Title: Most trusted Asian crypto exchanges?
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/ax1amx/most_trusted_asian_crypto_exchanges/
+
+ID: 8
+Title: ARCC is based on the fact that reducing systemic corruption helps create an environment of radical social transparency. This allowed the deployed duty-free capital to have the maximum chance of success in business.
+Score: 3
+URL: https://ibmr.io
+
+ID: 9
+Title: SEC’s Bitcoin ETF Approval will Boost Crypto Market
+Score: 2
+URL: https://plus.google.com/+VladDirescu/posts/KJcMnKEcLqM
+
+ID: 10
+Title: Bitcoin Approaches $3,900 as Crypto Markets Stabilize, Stock Market Slightly Down
+Score: 10
+URL: https://finance.yahoo.com/news/bitcoin-approaches-3-900-crypto-171600969.html
+
+ID: 11
+Title: IMF Issues Stability Assessment Report on Malta Financial Services Authority
+Score: 4
+URL: https://askrypto.com/news/2019/03/imf-issues-stability-assessment-report-on-malta-financial-services-authority/
+
+ID: 12
+Title: BCF Extends Charity To 1328 Victims With BNB Donation. A Propelling Force For Binance Coin (BNB)?
+Score: 3
+URL: https://todaysgazette.com/bcf-extends-charity-to-1328-victims-with-bnb-donation-a-propelling-force-for-binance-coin-bnb/
+
+ID: 13
+Title: Bitcoin (BTC) Price Predictions: 42% of Investors Are Optimistic BTC Would Touch $100K And Beyond
+Score: 112
+URL: https://todaysgazette.com/bitcoin-btc-price-predictions-42-of-investors-are-optimistic-btc-would-touch-100k-and-beyond/
+
+ID: 14
+Title: Price Prediction: EOS, Litecoin (LTC) and Tron (TRX) Promise Profitability in Short Term
+Score: 0
+URL: https://todaysgazette.com/price-prediction-eos-ltc-and-trx-promise-profitability-in-the-short-term/
+
+ID: 15
+Title: The Delete Coinbase Movement Drama
+Score: 0
+URL: https://www.youtube.com/watch?v=NONDm0SFMrE
+
+ID: 16
+Title: List of Today's and Tomorrow's Upcoming Events
+Score: 0
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awu8j6/list_of_todays_and_tomorrows_upcoming_events/
+
+ID: 17
+Title: Cryptocurrency Market Update Mar 3rd 2019 - Big Money Starts Accumulating
+Score: 2
+URL: https://youtu.be/zPfQv7nu2KU
+
+ID: 18
+Title: Bitocin Price Reversal - Will EOS Lead Next Bull Run? - 6 Months Price RED - 2019
+Score: 0
+URL: https://www.youtube.com/watch?v=-SeakipplNk&t=190s
+
+ID: 19
+Title: New Superorder Terminal is Officially Live!
+Score: 35
+URL: https://traderschat.io/t/new-superorder-terminal-is-officially-live/84
+
+ID: 20
+Title: US Congressman to Federal Reserve Chairman Jay Powell: Cryptocurrencies will “Foster Innovation” in the U.S.
+Score: 185
+URL: https://thetokenist.io/us-congressman-to-federal-reserve-chairman-jay-powell-cryptocurrencies-will-foster-innovation-in-the-u-s/
+
+ID: 21
+Title: Is This A Buy Signal For Bitcoin & Crypto Markets?
+Score: 0
+URL: https://www.youtube.com/watch?v=plk5ihrUBv8
+
+ID: 22
+Title: Menlo One.
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awocm6/menlo_one/
+
+ID: 23
+Title: OKEX v3 websocket Checksum Calculation for Futures Depth
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awmjdp/okex_v3_websocket_checksum_calculation_for/
+
+ID: 24
+Title: New York Times report on Facebook and Bitcoin generates negative reactions.
+Score: 9
+URL: https://todaysgazette.com/new-york-times-report-on-facebook-and-bitcoin-generates-negative-reactions/
+
+ID: 25
+Title: On This Day In Crypto History...
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awm7r7/on_this_day_in_crypto_history/
+
+ID: 26
+Title: Snapparazzi DApp — Discover Exclusive Visuals – Snapparazzi App — For Content Creators and Viewers – Medium
+Score: 1
+URL: https://medium.com/@Snapparazzi1/snapparazzi-dapp-discover-exclusive-visuals-d7be618a01cc
+
+ID: 27
+Title: Meticulous Institutional Accumulation Of $Btc $Bch $Vet...
+Score: 2
+URL: https://www.youtube.com/attribution_link?a=qHTA4jas3ZA&u=%2Fwatch%3Fv%3DqOmz_1NCFs8%26feature%3Dshare
+
+ID: 28
+Title: Tron (TRX) Closes on 2 Million Account Milestone. What’s Next?
+Score: 0
+URL: https://todaysgazette.com/tron-trx-closes-on-2-million-account-milestone-whats-next/
+
+ID: 29
+Title: New York Times report on Facebook and Bitcoin generates negative reactions.
+Score: 6
+URL: https://todaysgazette.com/new-york-times-report-on-facebook-and-bitcoin-generates-negative-reactions/
+
+ID: 30
+Title: Ethereum creator Vitalik Buterin: Bitcoin does 1 thing well, like a calculator. But Ethereum is a smart phone - with endless possibilities via apps.....
+Score: 33
+URL: http://globalcryptopress.com/2019/03/ethereum-creator-vitalik-buterin.html
+
+ID: 31
+Title: List of Today's and Tomorrow's Upcoming Events
+Score: 2
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awi0wt/list_of_todays_and_tomorrows_upcoming_events/
+
+ID: 32
+Title: Ontology Dev. Platform released on Google Cloud, AWS, and Azure; NexoFinance has processed $314 million in loans in 7 months; KomodoPlatform and Amazon create a 60 sec blockchain builder
+Score: 45
+URL: https://blog.blockfolio.com/this-week-in-blockfolio-signal-march-1st-ef82f7bd36e3
+
+ID: 33
+Title: Security token offering services, the leading players to help launch an STO
+Score: 2
+URL: https://www.inwara.com/security-token-offering-services-leading-players
+
+ID: 34
+Title: Markets Update: Diminished March Trade Volume Mirrors Previous Patterns
+Score: 1
+URL: https://news.bitcoin.com/markets-update-diminished-march-trade-volume-mirrors-previous-patterns/
+
+ID: 35
+Title: American Bank Signature To Offer Full Range Banking Services To Bermuda Crypto Cos
+Score: 2
+URL: https://www.binexnews.com/news-details/american-bank-signature-offer-banking-services-bermuda-crypto-cos
+
+ID: 36
+Title: CURES Token – Making Quality Healthcare Accessible to All
+Score: 5
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awf2er/cures_token_making_quality_healthcare_accessible/
+
+ID: 37
+Title: How to Sell Bitcoin
+Score: 0
+URL: https://www.youtube.com/attribution_link?a=7hioKWmwzpg&u=%2Fwatch%3Fv%3D8cKnv-oyCdc%26feature%3Dshare
+
+ID: 38
+Title: Five Record-Breaking Cryptocurrency Scams in 2018
+Score: 13
+URL: https://askrypto.com/analysis/2019/03/five-record-breaking-cryptocurrency-scams-in-2018/
+
+ID: 39
+Title: Unreal expectations
+Score: 0
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awioms/unreal_expectations/
+
+ID: 40
+Title: Win gold worth $10000 by participating in the gold hunt contest
+Score: 2
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awfyms/win_gold_worth_10000_by_participating_in_the_gold/
+
+ID: 41
+Title: The first SEC registered crypto advising firm just launched
+Score: 90
+URL: https://coinscribble.com/first-sec-registered-crypto-advising-firm/10261/news/12/
+
+ID: 42
+Title: Real Businesses Need Stability & Reliability
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awhf2w/real_businesses_need_stability_reliability/
+
+ID: 43
+Title: Dogecoin (DOGE) Price Soar a Pump and Dump?
+Score: 0
+URL: https://todaysgazette.com/dogecoin-doge-price-soar-a-pump-and-dump/
+
+ID: 44
+Title: Dedicated ICO Tokens Counter the Boon of Crowdsale Hard Caps
+Score: 4
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awdxdw/dedicated_ico_tokens_counter_the_boon_of/
+
+ID: 45
+Title: Was there ever a study done on which exchanges are more likely to reflect price changes earlier?
+Score: 2
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awfle1/was_there_ever_a_study_done_on_which_exchanges/
+
+ID: 46
+Title: A Smartphone to Earn its Owner € 250 Worth of Crypto Monthly
+Score: 0
+URL: https://plus.google.com/+VladDirescu/posts/ELhxVFJX21N
+
+ID: 47
+Title: Exchange Token Category UP 52%+ in the last month... Leading indicator?
+Score: 1
+URL: https://www.altdex.co/exchange/
+
+ID: 48
+Title: Bitcoin Exceeds PayPal in Annual Transaction Vol at $1.3T
+Score: 11
+URL: https://plus.google.com/102012235404616599689/posts/CxHnhnHbAL4
+
+ID: 49
+Title: New VIP improvements make BitStarz the new Mecca for highrollers!
+Score: 1
+URL: https://itsblockchain.com/new-vip-improvements-make-bitstarz-the-new-mecca-for-highrollers/
+
+ID: 50
+Title: Get ready for a Facebook-sponsored cryptocurrency
+Score: 3
+URL: https://arstechnica.com/tech-policy/2019/02/get-ready-for-a-facebook-sponsored-cryptocurrency/
+
+ID: 51
+Title: February recap
+Score: 1
+URL: https://twitter.com/ltonetwork/status/1100844315360849930?s=21
+
+ID: 52
+Title: Understanding The Cryptocurrency Market
+Score: 26
+URL: https://www.cryptimi.com/guides/chapter-2-understanding-the-crypto-market/
+
+ID: 53
+Title: AION Development Update - Mobile SDKs, AION VM, dApps, Wallets, Interoperability
+Score: 4
+URL: https://youtu.be/_d4x4UDfO4s
+
+ID: 54
+Title: Crypto Trend, the #1 Free IOS mobile app that connects the users to Blockchain Tech. Check it out! guys
+Score: 1
+URL: https://cryptotrend.page.link/kK5p
+
+ID: 55
+Title: eToro are bullish on crypto - Millennials wants to invest in cryptocurrencies
+Score: 12
+URL: https://gocryptowise.com/blog/etoro-are-bullish-on-crypto/
+
+ID: 56
+Title: Turkey Is The Leading European Nation In Terms Of Crypto Adoption
+Score: 32
+URL: https://www.binexnews.com/news-details/turkey-leading-european-nation-of-crypto-adoption
+
+ID: 57
+Title: Cryptopia will reopen (as Read-Only) by Monday
+Score: 11
+URL: https://beincrypto.com/hacked-exchange-cryptopia-to-reopen-but-in-read-only-mode/?utm_source=reddit&utm_medium=social&utm_campaign=reopen
+
+ID: 58
+Title: $90 Million Of QuadrigaCX Funds Claimed Found
+Score: 2
+URL: https://www.youtube.com/watch?v=OhTAUNCf2Vs
+
+ID: 59
+Title: OnePageX.com continues to integrate more crypto pairs for fast trading!
+Score: 3
+URL: https://i.redd.it/s1zhu4e3eij21.png
+
+ID: 60
+Title: AC3 Has Been Listed on BTC-Alpha - ICON dApp
+Score: 3
+URL: https://medium.com/@AC3network/were-excited-to-announce-that-ac3-has-been-listed-on-3-of-btc-alpha-s-base-markets-49b318a836a5
+
+ID: 61
+Title: Cryptocurrency and Blockchain Regulations around the World
+Score: 42
+URL: https://medium.com/fleta-first-chain/cryptocurrency-and-blockchain-regulations-around-the-world-part-1-a07a890ceb6f
+
+ID: 62
+Title: Cryptocurrency and Blockchain - Industry news - (02.22.19 - 03.01.19)
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awbf58/cryptocurrency_and_blockchain_industry_news/
+
+ID: 63
+Title: A new tool for crypto investors!
+Score: 4
+URL: https://www.reddit.com/r/CryptoMarkets/comments/aw6lxm/a_new_tool_for_crypto_investors/
+
+ID: 64
+Title: Custos Venture Capitalist group invested in BABB
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/awaaod/custos_venture_capitalist_group_invested_in_babb/
+
+ID: 65
+Title: New Bull Pattern Forming In Bitcoin & Crypto Markets?
+Score: 1
+URL: https://www.youtube.com/watch?v=ax6YMVTChMQ
+
+ID: 66
+Title: Bitcoin Fundamentals Indicate Price Currently Trades at Discount
+Score: 1
+URL: https://www.cryptocointrade.com/fundamental-analysis/bitcoin-fundamentals-indicate-price-currently-trades-at-discount/
+
+ID: 67
+Title: Soon will cross CryptoKitties! new star?
+Score: 2
+URL: https://i.redd.it/wrngeutw8jj21.png
+
+ID: 68
+Title: National governments that are keen to explore & invest in Blockchain Technology
+Score: 17
+URL: https://medium.com/altcoin-magazine/national-governments-that-are-keen-to-explore-invest-in-blockchain-technology-6a15b927b7ce
+
+ID: 69
+Title: Silly dojis
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/aw8gq7/silly_dojis/
+
+ID: 70
+Title: Mati Greenspan on Facebook's sneaky crypto plans plus the retiring of a king and BNB's recent breakout performance
+Score: 1
+URL: https://bitcoinerx.com/newsletters/mati-greenspan-excuse-me-your-majesty/
+
+ID: 71
+Title: Weekly Price Recaps for Top 100 Coins and Major Ethereum Headlines
+Score: 1
+URL: https://medium.com/ethex-market/the-ethereum-report-7-42da412e35e9
+
+ID: 72
+Title: Turns out there's a reason why NEM has performed so badly, according to this analysis.
+Score: 1
+URL: https://cryptobriefing.com/nem-digital-asset-report-xem-token-review/
+
+ID: 73
+Title: The Purple Protocol Turns 1 Year Old!
+Score: 1
+URL: https://purpleprotocol.org/blog/purple-turns-one-year-old
+
+ID: 74
+Title: 2019 is the Golden Year for Blockchain Technology in Italy
+Score: 0
+URL: https://plus.google.com/+VladDirescu/posts/McS6i77i7bu
+
+ID: 75
+Title: Ethereum hardfork explained! 2 theories on PRICE ACTION! | Cryptocurrency News | Chepicap
+Score: 1
+URL: https://www.youtube.com/watch?v=tmoRzLvvAIM
+
+ID: 76
+Title: 5 signs that you need to take a break from cryptocurrency
+Score: 1
+URL: https://medium.com/@rouchy/5-signs-that-you-need-to-take-a-break-from-cryptocurrency-216cd83d27c0
+
+ID: 77
+Title: GRID X BitTorrent partnership cards, BitTorrentSpeed in Q2, TRON Ledger Nano and New Record in…
+Score: 1
+URL: https://medium.com/paradigm-fund/grid-x-bittorrent-partnership-cards-bittorrentspeed-in-q2-tron-ledger-nano-and-new-record-in-88fc1995dbdb
+
+ID: 78
+Title: List of Today's and Tomorrow's Upcoming Events
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/aw57uc/list_of_todays_and_tomorrows_upcoming_events/
+
+ID: 79
+Title: Daily Market Recap - 03/01 - Crypto Market Ends The Week In A Trance, Bitcoin Facing An Uphill Battle
+Score: 1
+URL: https://dna.coinve.st/news/articles/2019-03-01/Crypto-Market-Ends-The-Week-In-A-Trance-Bitcoin-Facing-An-Uphill-Battle-
+
+ID: 80
+Title: Gas fees explained
+Score: 0
+URL: https://www.youtube.com/watch?v=0twbfS1VEDM
+
+ID: 81
+Title: Tech Mahindra, TBCASoft Collaborate To Support Cross-Carrier Blockchain For Telcos
+Score: 1
+URL: https://www.binexnews.com/news-details/tech-mahindra-tbcasoft-collaborate-support-crosscarrier-blockchain-tel
+
+ID: 82
+Title: Volentix on Twitter
+Score: 2
+URL: https://twitter.com/Volentix/status/1098696449137827846
+
+ID: 83
+Title: Cryptopia reopens on Monday.
+Score: 5
+URL: https://i.redd.it/rqf4uloptfj21.jpg
+
+ID: 84
+Title: Here’s What Happened With Ethereum’s St. Petersburg and Constantinople Upgrades
+Score: 1
+URL: https://youtu.be/Raxnc1k_PKk
+
+ID: 85
+Title: Fetch AI. Gone in 60 seconds
+Score: 1
+URL: https://shitcoinoffering.com/fetch-ai-gone-60-seconds/
+
+ID: 86
+Title: Resistance Launches Ambassador Program – Resistanceio – Medium
+Score: 1
+URL: https://medium.com/resistanceio/resistance-launches-ambassador-program-918b589494f9
+
+ID: 87
+Title: World Bank Is Finding Elastos (ELA) Use Cases Outstanding
+Score: 1
+URL: https://todaysgazette.com/world-bank-is-finding-elastos-ela-use-cases-outstanding/
+
+ID: 88
+Title: just a reminder: Flyp is an instant non-custodial exchange without KYC; hopefully they stay that way
+Score: 37
+URL: https://flyp.me/en/how-it-works/
+
+ID: 89
+Title: Try B4U Blockchain Wallet Application for free!
+Score: 0
+URL: https://v.redd.it/za326ttqjhj21
+
+ID: 90
+Title: Massive Crypto Investment Fraud Uncovered In India
+Score: 1
+URL: https://www.binexnews.com/news-details/massive-crypto-investment-fraud-uncovered-in-india
+
+ID: 91
+Title: Crypto Exchange Kraken Offers $ 1 Million Reward For QuadrigaCX’s Missing Funds
+Score: 0
+URL: https://www.binexnews.com/news-details/kraken-offers-1-million-reward-for-quadrigacx-missing-funds
+
+ID: 92
+Title: Faireum scored 4.8 on ICObench
+Score: 1
+URL: https://www.reddit.com/r/CryptoMarkets/comments/aw36yh/faireum_scored_48_on_icobench/
+
+ID: 93
+Title: Dash Launches New Website Refresh With User Flows, Roadmap
+Score: 10
+URL: https://dashnews.org/dash-launches-new-website-refresh-with-user-flows-roadmap/
+
+ID: 94
+Title: Facebook and Telegram Are Hoping to Succeed Where Bitcoin Failed
+Score: 0
+URL: https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html
+
+ID: 95
+Title: Let us recall the recent research on the infusion of BTC​ in Venezuela
+Score: 4
+URL: https://datalight.me/blog/researches/how-bitcoin-became-safe-haven-in-south-america/
+
+ID: 96
+Title: Bitfinex Recovers Stolen BTC with US Government’s Help and Reimburses Clients
+Score: 37
+URL: https://askrypto.com/news/2019/02/bitfinex-recovers-stolen-btc-with-us-governments-help-and-reimburses-clients/
+
+ID: 97
+Title: The Liqui exchange is closing. Users need to download their transaction history: here's how!
+Score: 3
+URL: https://tokentax.co/blog/liqui-is-shutting-down-have-you-saved-your-transaction-history-yet
+
+ID: 98
+Title: Bitforex exchange is scamming with fake volume
+Score: 9
+URL: https://i.redd.it/gc9kyadumcj21.png
+
+ID: 99
+Title: Ravencoin (RVN) Solid With Over 8% Value Rise In Crypto Winter
+Score: 0
+URL: https://todaysgazette.com/ravencoin-rvn-solid-with-over-8-value-rise-in-crypto-winter/
+
+
+
