@@ -1,14 +1,18 @@
-#Gets latest news articles from cryptocompare API and dumps into txt file with json format.
-#Article body is under the key "body"
-
 import requests
 import json
+import pandas as pd
 
+#url = 'https://min-api.cryptocompare.com/data/v2/news/?lang=EN&api_key=c8df95f79affff7fbffb29cc664355497c8418f243daac00406d82be1d67bb58&ITs=1553045108'
 
-url = 'https://min-api.cryptocompare.com/data/v2/news/?lang=EN'
-
-r = requests.get(url).json()
-data = r['Data']
-for i in data:
-	with open('data.txt', "a") as scraped:
-		json.dump(data, scraped)
+def get_news_before(ts):
+    url = 'https://min-api.cryptocompare.com/data/v2/news/?lTs={}&api_key=c8df95f79affff7fbffb29cc664355497c8418f243daac00406d82be1d67bb58'.format(ts)
+    r = requests.get(url).json()
+    #data = r['Data']
+    df = pd.DataFrame(r['Data'])
+    #for i in data:
+        #print(i['published_on']) 
+    df.to_csv('data.csv')
+get_news_before('1553131508')
+#for i in data:
+#	with open('data1.txt', "a") as scraped:
+#		json.dump(data, scraped)
