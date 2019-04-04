@@ -10,9 +10,16 @@ def get_news_before(ts):
     #data = r['Data']
     df = pd.DataFrame(r['Data'])
     #for i in data:
-        #print(i['published_on']) 
-    df.to_csv('data.csv')
-get_news_before('1553131508')
+        #print(i['published_on'])
+    with open('data.csv', 'a') as f: 
+    	df.to_csv(f, header=False)
+
+epoch_date = 1554339732
+while epoch_date > 1554000000:
+    epoch_date_str = str(epoch_date)
+    get_news_before(epoch_date_str)
+    epoch_date -= 100000
+
 #for i in data:
 #	with open('data1.txt', "a") as scraped:
 #		json.dump(data, scraped)
