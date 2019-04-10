@@ -1,0 +1,60 @@
+CRYPTOCURRENCY: Bitcoin
+{'fear': 8.085956839904204, 'anticipation': 12.90473748736132, 'disgust': 1.9181068931068934, 'trust': 12.650087355744231, 'sadness': 3.5829173785056136, 'anger': 6.6149636912794785, 'joy': 6.8015626077696965, 'negative': 9.419755540343772, 'positive': 18.485844224804055, 'surprise': 6.074355205562296}
+
+CRYPTOCURRENCY: Ethereum
+{'fear': 1.1602854732650127, 'anticipation': 2.052562945534745, 'disgust': 0.31639928698752223, 'trust': 2.9258854492600634, 'sadness': 0.498917748917749, 'anger': 1.0776524200437245, 'joy': 1.2675425065130947, 'negative': 1.3716884422766775, 'positive': 3.4791237958807626, 'surprise': 0.8667539302130095}
+
+CRYPTOCURRENCY: XRP
+{'fear': 0.28869047619047616, 'anticipation': 0.9307650682650683, 'disgust': 0.17777777777777776, 'trust': 1.2563131313131313, 'sadness': 0.25396825396825395, 'anger': 0, 'joy': 0.06666666666666667, 'negative': 0.4676157176157176, 'positive': 2.1371137849079025, 'surprise': 0.24027777777777776}
+
+CRYPTOCURRENCY: EOS
+{'fear': 0.730572599279693, 'anticipation': 1.4208703132616176, 'disgust': 0, 'trust': 1.8034363297521192, 'sadness': 0, 'anger': 0.6480329167400105, 'joy': 0.6741452991452992, 'negative': 0.6306599832915621, 'positive': 2.885661947271855, 'surprise': 0.38610182088442957}
+
+CRYPTOCURRENCY: Litecoin
+{'fear': 0.5428321678321679, 'anticipation': 0.6579637467795363, 'disgust': 0, 'trust': 1.0453321678321679, 'sadness': 0, 'anger': 0.6428321678321679, 'joy': 0.5428321678321679, 'negative': 0.23090909090909092, 'positive': 1.2055827943985837, 'surprise': 0.0625}
+
+CRYPTOCURRENCY: Bitcoin Cash
+{'fear': 1.6885059385059387, 'anticipation': 1.7030358530358531, 'disgust': 0, 'trust': 1.8244644244644244, 'sadness': 0.02564102564102564, 'anger': 1.7141469641469642, 'joy': 1.6773948273948274, 'negative': 0.02564102564102564, 'positive': 2.424464424464425, 'surprise': 0.1}
+
+CRYPTOCURRENCY: Tether
+{'fear': 0, 'anticipation': 0.14285714285714285, 'disgust': 0, 'trust': 0.14285714285714285, 'sadness': 0, 'anger': 0, 'joy': 0.07142857142857142, 'negative': 0.6142857142857142, 'positive': 0.07142857142857142, 'surprise': 0}
+
+CRYPTOCURRENCY: Stellar
+{'fear': 0.5288461538461539, 'anticipation': 0.5526315789473684, 'disgust': 0.07692307692307693, 'trust': 0.7, 'sadness': 0, 'anger': 0.375, 'joy': 0.375, 'negative': 0.15384615384615385, 'positive': 2.95931656063235, 'surprise': 0}
+
+CRYPTOCURRENCY: Binance Coin
+{'fear': 0.375, 'anticipation': 0.46590909090909094, 'disgust': 0, 'trust': 0.46590909090909094, 'sadness': 0, 'anger': 0.375, 'joy': 0.375, 'negative': 0, 'positive': 0.9659090909090909, 'surprise': 0}
+
+CRYPTOCURRENCY: TRON
+{'fear': 0.25, 'anticipation': 1.2665869218500796, 'disgust': 0.125, 'trust': 0.9068646996278575, 'sadness': 0, 'anger': 0.25, 'joy': 0.45202020202020204, 'negative': 0.34475524475524477, 'positive': 1.276998367129946, 'surprise': 0.20202020202020202}
+
+CRYPTOCURRENCY: Bitcoin SV
+{'fear': 0, 'anticipation': 0, 'disgust': 0, 'trust': 0, 'sadness': 0, 'anger': 0, 'joy': 0, 'negative': 0, 'positive': 0, 'surprise': 0}
+
+CRYPTOCURRENCY: Cardano
+{'fear': 0.375, 'anticipation': 0.6524692412850308, 'disgust': 0, 'trust': 0.7659090909090909, 'sadness': 0, 'anger': 0.4583333333333333, 'joy': 0.4375, 'negative': 0.08333333333333333, 'positive': 1.875063313879103, 'surprise': 0.1}
+
+CRYPTOCURRENCY: Monero
+{'fear': 0.28525641025641024, 'anticipation': 0.18000000000000002, 'disgust': 0.10192307692307692, 'trust': 0.13948275862068965, 'sadness': 0.07692307692307693, 'anger': 0.225, 'joy': 0.025, 'negative': 0.3371794871794872, 'positive': 0.13948275862068965, 'surprise': 0.025}
+
+CRYPTOCURRENCY: IOTA
+{'fear': 0, 'anticipation': 0, 'disgust': 0, 'trust': 0.0625, 'sadness': 0.07692307692307693, 'anger': 0, 'joy': 0, 'negative': 0.07692307692307693, 'positive': 0.07692307692307693, 'surprise': 0}
+
+CRYPTOCURRENCY: Dash
+{'fear': 0.6392607392607392, 'anticipation': 1.0541924741924742, 'disgust': 0.24358974358974358, 'trust': 2.3051340764498662, 'sadness': 0.24358974358974358, 'anger': 0.4868131868131868, 'joy': 0.3365800865800866, 'negative': 0.9082417582417583, 'positive': 2.4338692301850195, 'surprise': 0.18181818181818182}
+
+CRYPTOCURRENCY: Maker
+{'fear': 0.043478260869565216, 'anticipation': 0.043478260869565216, 'disgust': 0, 'trust': 0.1588235294117647, 'sadness': 0, 'anger': 0.043478260869565216, 'joy': 0, 'negative': 0, 'positive': 0.1111111111111111, 'surprise': 0.08695652173913043}
+
+CRYPTOCURRENCY: NEO
+{'fear': 0, 'anticipation': 0.1, 'disgust': 0.10096153846153846, 'trust': 0.13846153846153847, 'sadness': 0, 'anger': 0, 'joy': 0, 'negative': 0.10096153846153846, 'positive': 0.43710407239819005, 'surprise': 0}
+
+CRYPTOCURRENCY: Ethereum Classic
+{'fear': 0, 'anticipation': 0, 'disgust': 0, 'trust': 0, 'sadness': 0, 'anger': 0, 'joy': 0, 'negative': 0, 'positive': 0, 'surprise': 0}
+
+CRYPTOCURRENCY: NEM
+{'fear': 0, 'anticipation': 0, 'disgust': 0, 'trust': 0, 'sadness': 0, 'anger': 0, 'joy': 0, 'negative': 0, 'positive': 0, 'surprise': 0}
+
+CRYPTOCURRENCY: Zcash
+{'fear': 0.03125, 'anticipation': 0.17708333333333331, 'disgust': 0, 'trust': 0, 'sadness': 0.03125, 'anger': 0, 'joy': 0.08333333333333333, 'negative': 0.03125, 'positive': 0.19791666666666666, 'surprise': 0}
+
