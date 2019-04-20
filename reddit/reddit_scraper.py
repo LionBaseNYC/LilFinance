@@ -54,6 +54,9 @@ CRYPTOCURRENCIES = ['Bitcoin', 'Ethereum', 'XRP', 'EOS', 'Litecoin', 'Bitcoin Ca
                     'Stellar', 'Binance Coin', 'TRON', 'Bitcoin SV', 'Cardano', 'Monero', 'IOTA',
                     'Dash', 'Maker', 'NEO', 'Ethereum Classic', 'NEM', 'Zcash']
 
+CRYPTOCURRENCIESABBREV = [ 'BTC', 'ETH', 'XRP', 'EOS', 'LTC', 'BCH', 'USDT',
+                    'BNB','TRON', 'BSV', 'ADA', 'XMR', 'MIOTA', 'DASH', 'MKR',
+                     'NEO', 'ETC', 'NEM', 'ZEC']
 """
 How does scoring work on Reddit submissions?
 1) The Displayed Score: all votes are equal, whether earlier or later.
