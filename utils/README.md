@@ -1,5 +1,7 @@
 # Utilities
 
+## Setup
+
 * Include the following custom ```import_module()``` function in your script in order to have access to utilities included in this subdirectory:
 
 ```
@@ -26,3 +28,7 @@ sentiment_analysis_utils = import_module(name = "sentiment_analysis_utils",
                                          filepath = "../utils/sentiment_analysis_utils.py")
 from sentiment_analysis_utils import *
 ```
+
+## Notes
+
+* The script ```train_lstm.py``` will relatively take a long time to execute.
