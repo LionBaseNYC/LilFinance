@@ -14,6 +14,9 @@ import requests
 from string import punctuation
 # Imports for tokenization
 from collections import Counter
+# Import dictionary checker library
+import enchant # pip install pyenchant
+ENGLISH_DICTIONARY = enchant.Dict("en_US")
 
 # UTILITIES USED BY RNN w/ LSTM MODEL AND ITS TRAINING #
 def remove_punctuation_and_lower(str_arr):
@@ -31,20 +34,26 @@ def remove_punctuation_and_lower(str_arr):
         clean_str_arr[i] = ''.join([c for c in clean_str_arr[i] if c not in punctuation])
     return clean_str_arr
 
-def get_tokenization_map(str_arr, K = 1):
+def get_tokenization_map(str_arr, K = 1, strict = True):
     """
     Function to create a vocabulary-to-integer index mapping dictionary,
     where frequently occurring words are assigned to lower indexes.
     @param str_arr: array of texts, be it reviews or sentences
     @param K: most common words factor, decides how many words
-         the mapping dictionary contains. Set to 1 for tokenization.
+           the mapping dictionary contains. Set to 1 for tokenization.
+    @param strict: boolean value to decide whether we only want recognized
+           English words in mapping dictionary (True), or everything (False)
     @return vocabulary_to_integer: mapping dictionary
     """
     all_words = []
     for i in range(len(str_arr)):
         # Break down into list of words
         for word in str_arr[i].split():
-            all_words.append(word)
+            if strict:
+                if ENGLISH_DICTIONARY.check(word): # NOTE: This increases the runtime vastly
+                    all_words.append(word)
+            else:
+                all_words.append(word)
 
     # Count all the words using Counter Method
     words_with_counts = Counter(all_words)
@@ -68,12 +77,11 @@ def get_encoding(str_arr, vocabulary_to_integer, predicting=False):
     for text in str_arr:
         # If text is newly seen, check if mapping includes the passed words
         mapped = []
+        corresponding = lambda x: vocabulary_to_integer[x] if x in vocabulary_to_integer.keys() else 0
         if predicting:
-            sign = lambda x: math.copysign(1, x) if x!=0 else 0
-            corresponding = lambda x: vocabulary_to_integer[x] if x in vocabulary_to_integer.keys() else 0
-            mapped = [corresponding(word)  for word in text.split()]
+            mapped = [corresponding(word) for word in text.split()]
         else:
-            mapped = [vocabulary_to_integer[word] for word in text.split()]
+            mapped = [corresponding(word) for word in text.split()]
         encoded_arr.append(mapped)
     return encoded_arr
 
